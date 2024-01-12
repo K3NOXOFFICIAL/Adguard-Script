@@ -1,5 +1,5 @@
 # Adguard-Script
-[Ultimate AdGuard Script](https://github.com/K3NOXOFFICIAL/Adguard-Script/blob/Mobile/AdGuardMobileSettings.zip)
+[Ultimate AdGuard Script Mobile](https://github.com/K3NOXOFFICIAL/Adguard-Script/blob/Mobile/AdGuardMobileSettings.zip)
 
 # Installation
 Klicke die Extension dann Settings Icon dann Import Settings und wähle die Datei aus dem Download aus.
